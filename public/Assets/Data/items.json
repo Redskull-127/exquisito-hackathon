@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Chicken Tandoori",
+        "description": "Chicken marinated in yogurt and spices, then cooked in a tandoor oven.",
+        "price": 200
+    },
+    {
+        "title": "Grill Chicken",
+        "description": "Chicken marinated in yogurt and spices, then cooked in a grill.",
+        "price": 250
+    },
+    {
+        "title": "Veg. Sandwich",
+        "description": "Veg. Sandwich with cheese and tomato.",
+        "price": 49
+    },
+    {
+        "title": "Grill Sandwich",
+        "description": "Grill Sandwich with cheese and tomato.",
+        "price": 79
+    },
+    {
+        "title": "Ramen Noodles",
+        "description": "Ramen Noodles with chicken and vegetables.",
+        "price": 99
+    },
+    {
+        "title": "Tadka Maggie",
+        "description": "Tadka Maggie with vegetables - spicy.",
+        "price": 49
+    },
+    {
+        "title": "Pizza",
+        "description": "Pizza with cheese and tomato.",
+        "price": 99
+    }
+]
